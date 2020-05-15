@@ -1,1 +1,1 @@
-# LocalHost_Flask_API_on_ML_model
+This repository gives a basic idea of ML model deployment using flask API.
